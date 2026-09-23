@@ -1,0 +1,14 @@
+C:\Users\Alumno\Desktop\Claro\Claro\bin\Debug\net8.0\Claro.exe
+C:\Users\Alumno\Desktop\Claro\Claro\bin\Debug\net8.0\Claro.deps.json
+C:\Users\Alumno\Desktop\Claro\Claro\bin\Debug\net8.0\Claro.runtimeconfig.json
+C:\Users\Alumno\Desktop\Claro\Claro\bin\Debug\net8.0\Claro.dll
+C:\Users\Alumno\Desktop\Claro\Claro\bin\Debug\net8.0\Claro.pdb
+C:\Users\Alumno\Desktop\Claro\Claro\obj\Debug\net8.0\Claro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Claro\Claro\obj\Debug\net8.0\Claro.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Claro\Claro\obj\Debug\net8.0\Claro.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Claro\Claro\obj\Debug\net8.0\Claro.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Claro\Claro\obj\Debug\net8.0\Claro.dll
+C:\Users\Alumno\Desktop\Claro\Claro\obj\Debug\net8.0\refint\Claro.dll
+C:\Users\Alumno\Desktop\Claro\Claro\obj\Debug\net8.0\Claro.pdb
+C:\Users\Alumno\Desktop\Claro\Claro\obj\Debug\net8.0\Claro.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\Claro\Claro\obj\Debug\net8.0\ref\Claro.dll
